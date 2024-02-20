@@ -1,0 +1,1 @@
+In this project I will create a website about recipes using HTML. Later this will be expanded upon using CSS and JS, but for now I will strictly use HTML to build the foundation of the website, as well as using git to stage and commit files into my GitHub repository for version control.
